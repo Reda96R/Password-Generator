@@ -150,4 +150,3 @@ Here you can find some of the resources that I found helpful while making this s
 [issues-shield]: https://img.shields.io/github/issues/Reda96R/Password-Generator.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/reda_rayyad
->>>>>>> 6d82fcf782448d27b1c4e33e4e7e5caa8f33f98f
