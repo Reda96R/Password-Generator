@@ -133,3 +133,21 @@ Here you can find some of the resources that I found helpful while making this s
 * [This amazing Readme Template made by @othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<<<<<<< HEAD
+=======
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Reda96R/Password-Generator.svg?style=for-the-badge
+[contributors-url]: https://github.com/Reda96R/Password-Generator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Reda96R/Password-Generator.svg?style=for-the-badge
+[forks-url]: https://github.com/Reda96R/Password-Generator/network/members
+[stars-shield]: https://img.shields.io/github/stars/Reda96R/Password-Generator.svg?style=for-the-badge
+[stars-url]: https://github.com/Reda96R/Password-Generator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Reda96R/Password-Generator.svg?style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/reda_rayyad
+>>>>>>> 6d82fcf782448d27b1c4e33e4e7e5caa8f33f98f
