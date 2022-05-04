@@ -133,11 +133,6 @@ Here you can find some of the resources that I found helpful while making this s
 * [This amazing Readme Template made by @othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<<<<<<< HEAD
-=======
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
