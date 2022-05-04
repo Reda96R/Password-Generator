@@ -1,15 +1,4 @@
-<<<<<<< HEAD
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -144,22 +133,3 @@ Here you can find some of the resources that I found helpful while making this s
 * [This amazing Readme Template made by @othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Reda96R/Password-Generator.svg?style=for-the-badge
-[contributors-url]: https://github.com/Reda96R/Password-Generator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Reda96R/Password-Generator.svg?style=for-the-badge
-[forks-url]: https://github.com/Reda96R/Password-Generator/network/members
-[stars-shield]: https://img.shields.io/github/stars/Reda96R/Password-Generator.svg?style=for-the-badge
-[stars-url]: https://github.com/Reda96R/Password-Generator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Reda96R/Password-Generator.svg?style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/reda_rayyad
-=======
-# Password-Generator
-Bash script to generate a random password
->>>>>>> d5d9f00e5424e5d2997029e0c88418d1beafe38e
