@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -159,7 +158,3 @@ Here you can find some of the resources that I found helpful while making this s
 [issues-shield]: https://img.shields.io/github/issues/Reda96R/Password-Generator.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/reda_rayyad
-=======
-# Password-Generator
-Bash script to generate a random password
->>>>>>> d5d9f00e5424e5d2997029e0c88418d1beafe38e
